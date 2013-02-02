@@ -1,0 +1,795 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2011 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Jorge Saldivar <jorgesaldivar@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-07 00:57-0400\n"
+"PO-Revision-Date: 2011-05-06 19:30-0400\n"
+"Last-Translator: Jorge Saldivar <jorgesaldivar@gmail.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: attendance_system.py:70 attendance_system.py:174
+msgid "Salir de la Aplicación"
+msgstr "Salir de la Aplicación"
+
+#: attendance_system.py:104 attendance_system.py:182 attendance_system.py:193
+#: attendance_system.py:490 modules/attendance.py:343
+#: modules/configuration.py:226 modules/event.py:222 modules/event.py:334
+#: modules/report.py:503 modules/user.py:459 modules/user.py:563
+msgid "Sistema de Control de Asistencia"
+msgstr "Sistema de Control de Asistencia"
+
+#: attendance_system.py:136
+msgid "Elija una de las siguientes opciones"
+msgstr "Elija una de las siguientes opciones"
+
+#: attendance_system.py:142
+msgid "Desarrollado por Lemontruck"
+msgstr "Desarrollado por Lemontruck"
+
+#: attendance_system.py:147
+msgid "Administrador"
+msgstr "Administrador"
+
+#: attendance_system.py:153
+msgid "Ingrese la contraseña de Administrador"
+msgstr "Ingrese la contraseña de Administrador"
+
+#: attendance_system.py:168
+msgid "Contraseña Incorrecta!"
+msgstr "Contraseña Incorrecta!"
+
+#: attendance_system.py:230
+msgid "Usuarios"
+msgstr "Usuarios"
+
+#: attendance_system.py:232
+msgid "Eventos"
+msgstr "Eventos"
+
+#: attendance_system.py:234
+msgid "Informes"
+msgstr "Informes"
+
+#: attendance_system.py:236
+msgid "Configuraciones"
+msgstr "Configuraciones"
+
+#: attendance_system.py:276 modules/report.py:412
+msgid "Seleccione un evento y presione Ok"
+msgstr "Seleccione un evento y presione Ok"
+
+#: attendance_system.py:279 modules/report.py:342 modules/report.py:415
+msgid "Busqueda"
+msgstr "Busqueda"
+
+#: attendance_system.py:287 modules/event.py:104 modules/report.py:355
+#: modules/report.py:423 modules/user.py:302
+msgid "Buscar"
+msgstr "Buscar"
+
+#: attendance_system.py:290 modules/event.py:107 modules/report.py:358
+#: modules/report.py:426 modules/user.py:305
+msgid "Limpiar"
+msgstr "Limpiar"
+
+#: attendance_system.py:300 modules/configuration.py:150 modules/event.py:118
+#: modules/event.py:154 modules/report.py:368 modules/report.py:436
+#: modules/user.py:316 modules/user.py:350
+msgid "Nombre"
+msgstr "Nombre"
+
+#: attendance_system.py:359
+msgid "Asistencia"
+msgstr "Asistencia"
+
+#: attendance_system.py:363
+msgid "Controlar Asistencia (Ctrl+A)"
+msgstr "Controlar Asistencia (Ctrl+A)"
+
+#: attendance_system.py:375
+msgid "Administración"
+msgstr "Administración"
+
+#: attendance_system.py:378
+msgid "Configurar la Aplicación (Ctrl+D)"
+msgstr "Configurar la Aplicación (Ctrl+D)"
+
+#: attendance_system.py:391
+msgid "Salir"
+msgstr "Salir"
+
+#: attendance_system.py:394
+msgid "Salir de la Aplicación (Ctrl+E)"
+msgstr "Salir de la Aplicación (Ctrl+E)"
+
+#: attendance_system.py:427
+msgid "Cargando las configuraciones..."
+msgstr "Cargando las configuraciones..."
+
+#: attendance_system.py:436
+msgid "Iniciando Base de Datos..."
+msgstr "Iniciando Base de Datos..."
+
+#: attendance_system.py:439
+msgid "Buscando dipositivo de Huellas Dactilares..."
+msgstr "Buscando dipositivo de Huellas Dactilares..."
+
+#: attendance_system.py:443
+msgid "Iniciando dipositivo de Huellas Dactilares..."
+msgstr "Iniciando dipositivo de Huellas Dactilares..."
+
+#: attendance_system.py:449
+msgid ""
+"Ocurrió un problema al intentar acceder a las configuraciones, la aplicación "
+"se cerrará"
+msgstr ""
+"Ocurrió un problema al intentar acceder a las configuraciones, la aplicación "
+"se cerrará"
+
+#: attendance_system.py:467
+msgid ""
+"Ocurrió un problema al intentar iniciar el dispositivo de huellas "
+"dactilares, la aplicación no funcionará correctamente"
+msgstr ""
+"Ocurrió un problema al intentar iniciar el dispositivo de huellas "
+"dactilares, la aplicación no funcionará correctamente"
+
+#: attendance_system.py:476
+msgid ""
+"Ocurrió un problema al intentar conectarse a la Base de Datos, la aplicación "
+"se cerrará"
+msgstr ""
+"Ocurrió un problema al intentar conectarse a la Base de Datos, la aplicación "
+"se cerrará"
+
+#: modules/attendance.py:25 modules/user.py:26
+msgid "Registrar Huella Dactilar"
+msgstr "Registrar Huella Dactilar"
+
+#: modules/attendance.py:36
+msgid "Deslice su dedo "
+msgstr "Deslice su dedo "
+
+#: modules/attendance.py:36
+msgid " por el lector de huellas dactilares"
+msgstr " por el lector de huellas dactilares"
+
+#: modules/attendance.py:44 modules/user.py:46
+msgid "Cancelar"
+msgstr "Cancelar"
+
+#: modules/attendance.py:76
+msgid ""
+"La huella dactilar no corresponde con el usuario ingresado, intente de nuevo"
+msgstr ""
+"La huella dactilar no corresponde con el usuario ingresado, intente de nuevo"
+
+#: modules/attendance.py:78
+msgid "Error en el registro de huella dactilar, intente de nuevo"
+msgstr "Error en el registro de huella dactilar, intente de nuevo"
+
+#: modules/attendance.py:94 modules/user.py:122
+msgid "indice"
+msgstr "indice"
+
+#: modules/attendance.py:96 modules/user.py:124
+msgid "pulgar"
+msgstr "pulgar"
+
+#: modules/attendance.py:98 modules/user.py:126
+msgid "medio"
+msgstr "medio"
+
+#: modules/attendance.py:100 modules/user.py:128
+msgid "anular"
+msgstr "anular"
+
+#: modules/attendance.py:102 modules/user.py:130
+msgid "meñique"
+msgstr "meñique"
+
+#: modules/attendance.py:106 modules/user.py:134
+msgid "derecho"
+msgstr "derecho"
+
+#: modules/attendance.py:108 modules/user.py:136
+msgid "izquierdo"
+msgstr "izquierdo"
+
+#: modules/attendance.py:124 modules/user.py:202
+msgid "No se encontró el usuario requerido"
+msgstr "No se encontró el usuario requerido"
+
+#: modules/attendance.py:165
+msgid ""
+"Para buscar la huella dactilar de un usuario debe especificar el nombre de "
+"usuario o el dni del mismo"
+msgstr ""
+"Para buscar la huella dactilar de un usuario debe especificar el nombre de "
+"usuario o el dni del mismo"
+
+#: modules/attendance.py:169
+msgid "El usuario no registró su huella dactilar"
+msgstr "El usuario no registró su huella dactilar"
+
+#: modules/attendance.py:233
+msgid "Registro de Entrada/Salida"
+msgstr "Registro de Entrada/Salida"
+
+#: modules/attendance.py:259
+msgid "Ingrese su número de cédula y presione la tecla Intro (Enter)"
+msgstr "Ingrese su número de cédula y presione la tecla Intro (Enter)"
+
+#: modules/attendance.py:264
+msgid "Número de Cédula"
+msgstr "Número de Cédula"
+
+#: modules/attendance.py:274
+msgid "Ingrese su nombre de usuario y presione la tecla Intro (Enter)"
+msgstr "Ingrese su nombre de usuario y presione la tecla Intro (Enter)"
+
+#: modules/attendance.py:279
+msgid "Nombre de Usuario"
+msgstr "Nombre de Usuario"
+
+#: modules/attendance.py:292
+msgid "Debe ingresar un número de cédula"
+msgstr "Debe ingresar un número de cédula"
+
+#: modules/attendance.py:296
+msgid "El número de cédula ingresado no existe en el sistema"
+msgstr "El número de cédula ingresado no existe en el sistema"
+
+#: modules/attendance.py:302
+msgid "Debe ingresar un nombre de usuario"
+msgstr "Debe ingresar un nombre de usuario"
+
+#: modules/attendance.py:306
+msgid ""
+"El usuario ingresado no existe, ingrese un nombre de usuario registrado en "
+"el sistema"
+msgstr ""
+"El usuario ingresado no existe, ingrese un nombre de usuario registrado en "
+"el sistema"
+
+#: modules/attendance.py:317
+msgid ""
+"El usuario ingresado no tiene su huella dactilar registrada en la base de "
+"datos"
+msgstr ""
+"El usuario ingresado no tiene su huella dactilar registrada en la base de "
+"datos"
+
+#: modules/attendance.py:329
+msgid " ¡su entrada se ha registrado correctamente!"
+msgstr " ¡su entrada se ha registrado correctamente!"
+
+#: modules/attendance.py:332
+msgid " ¡su salida se ha registrado correctamente!"
+msgstr " ¡su salida se ha registrado correctamente!"
+
+#: modules/attendance.py:338
+msgid ""
+"Ocurrió un error al intentar registrar su entrada/salida, intente de nuevo"
+msgstr ""
+"Ocurrió un error al intentar registrar su entrada/salida, intente de nuevo"
+
+#: modules/attendance.py:350
+msgid "Resultado Registro de Asistencia"
+msgstr "Resultado Registro de Asistencia"
+
+#: modules/configuration.py:64
+msgid "Opciones de Control de Asistencia"
+msgstr "Opciones de Control de Asistencia"
+
+#: modules/configuration.py:67
+msgid "Utilizar Número Cédula"
+msgstr "Utilizar Número Cédula"
+
+#: modules/configuration.py:73
+msgid "Utilizar Nombre de Usuario"
+msgstr "Utilizar Nombre de Usuario"
+
+#: modules/configuration.py:79
+msgid "Asistencia por eventos"
+msgstr "Asistencia por eventos"
+
+#: modules/configuration.py:88
+msgid "Opciones de Huellas Dactilares"
+msgstr "Opciones de Huellas Dactilares"
+
+#: modules/configuration.py:92
+msgid "Dispositvo: "
+msgstr "Dispositvo: "
+
+#: modules/configuration.py:94
+msgid "Dispositvo: No Encontrado"
+msgstr "Dispositvo: No Encontrado"
+
+#: modules/configuration.py:96
+msgid "Utilizar Huellas Dactilares"
+msgstr "Utilizar Huellas Dactilares"
+
+#: modules/configuration.py:106
+msgid "Mano"
+msgstr "Mano"
+
+#: modules/configuration.py:108
+msgid "Derecha"
+msgstr "Derecha"
+
+#: modules/configuration.py:110
+msgid "Izquierda"
+msgstr "Izquierda"
+
+#: modules/configuration.py:116
+msgid "Dedo"
+msgstr "Dedo"
+
+#: modules/configuration.py:118
+msgid "Pulgar"
+msgstr "Pulgar"
+
+#: modules/configuration.py:120
+msgid "Indice"
+msgstr "Indice"
+
+#: modules/configuration.py:122
+msgid "Medio"
+msgstr "Medio"
+
+#: modules/configuration.py:124
+msgid "Anular"
+msgstr "Anular"
+
+#: modules/configuration.py:126
+msgid "Meñique"
+msgstr "Meñique"
+
+#: modules/configuration.py:142
+msgid "Configuración de Base de Datos"
+msgstr "Configuración de Base de Datos"
+
+#: modules/configuration.py:157 modules/report.py:320 modules/user.py:318
+#: modules/user.py:362
+msgid "Usuario"
+msgstr "Usuario"
+
+#: modules/configuration.py:164
+msgid "Password"
+msgstr "Password"
+
+#: modules/configuration.py:171
+msgid "Host"
+msgstr "Host"
+
+#: modules/configuration.py:178
+msgid "Configuración de Administrador"
+msgstr "Configuración de Administrador"
+
+#: modules/configuration.py:186
+msgid "Cambiar Contraseña"
+msgstr "Cambiar Contraseña"
+
+#: modules/configuration.py:191
+msgid "Contraseña Actual"
+msgstr "Contraseña Actual"
+
+#: modules/configuration.py:199
+msgid "Nueva Contraseña"
+msgstr "Nueva Contraseña"
+
+#: modules/configuration.py:207
+msgid "Repetir Nueva Contraseña"
+msgstr "Repetir Nueva Contraseña"
+
+#: modules/configuration.py:280
+msgid "La contraseñas no coinciden"
+msgstr "La contraseñas no coinciden"
+
+#: modules/configuration.py:282
+msgid "La contraseña de administrador introducida es incorrecta"
+msgstr "La contraseña de administrador introducida es incorrecta"
+
+#: modules/configuration.py:320
+msgid "Error al intentar guardar las configuraciones"
+msgstr "Error al intentar guardar las configuraciones"
+
+#: modules/configuration.py:322
+msgid "¡Las configuraciones se guardaron correctamente!"
+msgstr "¡Las configuraciones se guardaron correctamente!"
+
+#: modules/configuration.py:324
+msgid "Debe reiniciar la aplicación para que los cambios sean aplicados"
+msgstr "Debe reiniciar la aplicación para que los cambios sean aplicados"
+
+#: modules/event.py:51 modules/report.py:218
+msgid "Debe especificar el id del evento"
+msgstr "Debe especificar el id del evento"
+
+#: modules/event.py:56 modules/report.py:223
+msgid "No se encontró el evento requerida"
+msgstr "No se encontró el evento requerida"
+
+#: modules/event.py:93
+msgid "Eventos Registrados"
+msgstr "Eventos Registrados"
+
+#: modules/event.py:117 modules/report.py:319 modules/user.py:315
+msgid "N°"
+msgstr "N°"
+
+#: modules/event.py:119 modules/event.py:160 modules/report.py:321
+msgid "Fecha"
+msgstr "Fecha"
+
+#: modules/event.py:120
+msgid "Académico"
+msgstr "Académico"
+
+#: modules/event.py:126 modules/user.py:324
+msgid "Editar"
+msgstr "Editar"
+
+#: modules/event.py:129 modules/user.py:327
+msgid "Eliminar"
+msgstr "Eliminar"
+
+#: modules/event.py:132 modules/user.py:330
+msgid "Eliminar Todos"
+msgstr "Eliminar Todos"
+
+#: modules/event.py:145
+msgid "Datos de la Materia"
+msgstr "Datos de la Materia"
+
+#: modules/event.py:166
+msgid "Evento Académico"
+msgstr "Evento Académico"
+
+#: modules/event.py:171
+msgid "Tipo"
+msgstr "Tipo"
+
+#: modules/event.py:175 modules/event.py:240
+msgid "curricular"
+msgstr "curricular"
+
+#: modules/event.py:176 modules/event.py:243
+msgid "extracurricular"
+msgstr "extracurricular"
+
+#: modules/event.py:181
+msgid "Créditos"
+msgstr "Créditos"
+
+#: modules/event.py:187 modules/event.py:277 modules/event.py:293
+#: modules/event.py:307 modules/user.py:407
+msgid "Grabar Datos"
+msgstr "Grabar Datos"
+
+#: modules/event.py:190 modules/user.py:410
+msgid "Limpiar Campos"
+msgstr "Limpiar Campos"
+
+#: modules/event.py:205 modules/event.py:324
+msgid "Si"
+msgstr "Si"
+
+#: modules/event.py:207 modules/event.py:326
+msgid "No"
+msgstr "No"
+
+#: modules/event.py:252
+msgid ""
+"Imposible editar los datos del evento, no se encuentra conectado a la Base "
+"de Datos"
+msgstr ""
+"Imposible editar los datos del evento, no se encuentra conectado a la Base "
+"de Datos"
+
+#: modules/event.py:254
+msgid "Debe seleccionar un evento para poder editarlo"
+msgstr "Debe seleccionar un evento para poder editarlo"
+
+#: modules/event.py:265
+msgid "Ocurrió un error al intentar eliminar el evento de la Base de Datos"
+msgstr "Ocurrió un error al intentar eliminar el evento de la Base de Datos"
+
+#: modules/event.py:267
+msgid "Debe seleccionar un evento para poder eliminarlo"
+msgstr "Debe seleccionar un evento para poder eliminarlo"
+
+#: modules/event.py:299
+msgid "Ocurrió un error al intentar registrar el evento en la Base de Datos"
+msgstr "Ocurrió un error al intentar registrar el evento en la Base de Datos"
+
+#: modules/event.py:300
+msgid "Actualizar Datos"
+msgstr "Actualizar Datos"
+
+#: modules/event.py:305
+msgid "Ocurrió un error al intentar actualizar el evento en la Base de Datos"
+msgstr "Ocurrió un error al intentar actualizar el evento en la Base de Datos"
+
+#: modules/event.py:309
+msgid ""
+"Imposible grabar los datos del evento, no se encuentra conectado a la Base "
+"de Datos"
+msgstr ""
+"Imposible grabar los datos del evento, no se encuentra conectado a la Base "
+"de Datos"
+
+#: modules/event.py:312
+msgid "Favor ingrese la cantidad de créditos y el tipo de evento"
+msgstr "Favor ingrese la cantidad de créditos y el tipo de evento"
+
+#: modules/event.py:314 modules/user.py:547
+msgid "Favor complete los campos marcados con * antes de grabar los datos"
+msgstr "Favor complete los campos marcados con * antes de grabar los datos"
+
+#: modules/event.py:333
+msgid ""
+"Se eliminarán todos los eventos del sistema. ¿Dese continuar con la acción?"
+msgstr ""
+"Se eliminarán todos los eventos del sistema. ¿Dese continuar con la acción?"
+
+#: modules/report.py:213
+msgid "Error al intentar obtener la cantidad de minutos de asistencia"
+msgstr "Error al intentar obtener la cantidad de minutos de asistencia"
+
+#: modules/report.py:243
+msgid "Opciones del Informe"
+msgstr "Opciones del Informe"
+
+#: modules/report.py:252
+msgid "Por Usuario"
+msgstr "Por Usuario"
+
+#: modules/report.py:257 modules/report.py:268
+msgid "Seleccionar"
+msgstr "Seleccionar"
+
+#: modules/report.py:263
+msgid "Por Evento"
+msgstr "Por Evento"
+
+#: modules/report.py:272
+msgid "Desde"
+msgstr "Desde"
+
+#: modules/report.py:278
+msgid "Hasta"
+msgstr "Hasta"
+
+#: modules/report.py:286
+msgid "Por Fecha"
+msgstr "Por Fecha"
+
+#: modules/report.py:294
+msgid "Hoy"
+msgstr "Hoy"
+
+#: modules/report.py:295
+msgid "Esta semana"
+msgstr "Esta semana"
+
+#: modules/report.py:296
+msgid "Este mes"
+msgstr "Este mes"
+
+#: modules/report.py:297
+msgid "Personalizado"
+msgstr "Personalizado"
+
+#: modules/report.py:302 modules/report.py:541
+msgid "Generar"
+msgstr "Generar"
+
+#: modules/report.py:305 modules/report.py:543
+msgid "Exportar a Archivo"
+msgstr "Exportar a Archivo"
+
+#: modules/report.py:310
+msgid "Vista del Informe"
+msgstr "Vista del Informe"
+
+#: modules/report.py:322
+msgid "Hora Entrada"
+msgstr "Hora Entrada"
+
+#: modules/report.py:323
+msgid "Hora Salida"
+msgstr "Hora Salida"
+
+#: modules/report.py:324
+msgid "Total Asistencia"
+msgstr "Total Asistencia"
+
+#: modules/report.py:339
+msgid "Seleccione un nombre y presione Ok"
+msgstr "Seleccione un nombre y presione Ok"
+
+#: modules/report.py:348 modules/user.py:293
+msgid "Por Nombre"
+msgstr "Por Nombre"
+
+#: modules/report.py:351 modules/user.py:296
+msgid "Por Apellido"
+msgstr "Por Apellido"
+
+#: modules/report.py:381 modules/report.py:449
+msgid "Error! al intentar seleccionar el usuario"
+msgstr "Error! al intentar seleccionar el usuario"
+
+#: modules/report.py:546
+msgid "Error!, accion deconocida"
+msgstr "Error!, accion deconocida"
+
+#: modules/report.py:548
+msgid "No se encontraron registros para las opciones seleccionadas"
+msgstr "No se encontraron registros para las opciones seleccionadas"
+
+#: modules/report.py:551
+msgid "Ingrese el directorio y el nombre del archivo"
+msgstr "Ingrese el directorio y el nombre del archivo"
+
+#: modules/report.py:558
+msgid "Todos"
+msgstr "Todos"
+
+#: modules/report.py:570
+msgid ""
+"\"N°\",\"Nombre\",\"Fecha\",\"Evento\",\"Hora Entrada\",\"Hora Salida\","
+"\"Total Asistencia\"\n"
+msgstr ""
+"\"N°\",\"Nombre\",\"Fecha\",\"Evento\",\"Hora Entrada\",\"Hora Salida\","
+"\"Total Asistencia\"\n"
+
+#: modules/report.py:572
+msgid ""
+"\"N°\",\"Nombre\",\"Fecha\",\"Hora Entrada\",\"Hora Salida\",\"Total "
+"Asistencia\"\n"
+msgstr ""
+"\"N°\",\"Nombre\",\"Fecha\",\"Hora Entrada\",\"Hora Salida\",\"Total "
+"Asistencia\"\n"
+
+#: modules/user.py:38
+msgid "Para registrar la huella dactilar, debe pasar correctamente el dedo "
+msgstr "Para registrar la huella dactilar, debe pasar correctamente el dedo "
+
+#: modules/user.py:39
+msgid " veces."
+msgstr " veces."
+
+#: modules/user.py:43 modules/user.py:68 modules/user.py:100
+msgid "Deslice su dedo ahora"
+msgstr "Deslice su dedo ahora"
+
+#: modules/user.py:49
+msgid "Ok"
+msgstr "Ok"
+
+#: modules/user.py:82 modules/user.py:98
+msgid "Paso "
+msgstr "Paso "
+
+#: modules/user.py:102
+msgid "¡Completado!"
+msgstr "¡Completado!"
+
+#: modules/user.py:104
+msgid "Error en el paso "
+msgstr "Error en el paso "
+
+#: modules/user.py:197
+msgid "Para buscar un usuario debe especificar el id de usuario"
+msgstr "Para buscar un usuario debe especificar el id de usuario"
+
+#: modules/user.py:282
+msgid "Usuarios Registrados"
+msgstr "Usuarios Registrados"
+
+#: modules/user.py:298
+msgid "Por Cédula"
+msgstr "Por Cédula"
+
+#: modules/user.py:317 modules/user.py:368
+msgid "Cédula"
+msgstr "Cédula"
+
+#: modules/user.py:343
+msgid "Datos del Usuario"
+msgstr "Datos del Usuario"
+
+#: modules/user.py:356
+msgid "Apellido"
+msgstr "Apellido"
+
+#: modules/user.py:374
+msgid "Foto"
+msgstr "Foto"
+
+#: modules/user.py:383
+msgid "Agregar"
+msgstr "Agregar"
+
+#: modules/user.py:393
+msgid "Huella Dactilar"
+msgstr "Huella Dactilar"
+
+#: modules/user.py:399
+msgid "Registrar"
+msgstr "Registrar"
+
+#: modules/user.py:489
+msgid ""
+"Imposible editar los datos de usuario, no se encuentra conectado a la Base "
+"de Datos"
+msgstr ""
+"Imposible editar los datos de usuario, no se encuentra conectado a la Base "
+"de Datos"
+
+#: modules/user.py:491
+msgid "Debe seleccionar un usuario para poder editarlo"
+msgstr "Debe seleccionar un usuario para poder editarlo"
+
+#: modules/user.py:501
+msgid "Ocurrió un error al intentar eliminar el usuario de la Base de Datos"
+msgstr "Ocurrió un error al intentar eliminar el usuario de la Base de Datos"
+
+#: modules/user.py:503
+msgid "Debe seleccionar un usuario para poder eliminarlo"
+msgstr "Debe seleccionar un usuario para poder eliminarlo"
+
+#: modules/user.py:539
+msgid "Ocurrió un error al intentar grabar los datos del usuario"
+msgstr "Ocurrió un error al intentar grabar los datos del usuario"
+
+#: modules/user.py:541
+msgid ""
+"Imposible grabar los datos del usuario, el número de cédula ya existe en la "
+"Base de Datos"
+msgstr ""
+"Imposible grabar los datos del usuario, el número de cédula ya existe en la "
+"Base de Datos"
+
+#: modules/user.py:543
+msgid ""
+"Imposible grabar los datos del usuario, el nombre de usuario ya existe en la "
+"Base de Datos"
+msgstr ""
+"Imposible grabar los datos del usuario, el nombre de usuario ya existe en la "
+"Base de Datos"
+
+#: modules/user.py:545
+msgid ""
+"Imposible grabar los datos del usuario, no se encuentra conectado a la Base "
+"de Datos"
+msgstr ""
+"Imposible grabar los datos del usuario, no se encuentra conectado a la Base "
+"de Datos"
+
+#: modules/user.py:562
+msgid ""
+"Se eliminarán todos los usuarios del sistema. ¿Dese continuar con la acción?"
+msgstr ""
+"Se eliminarán todos los usuarios del sistema. ¿Dese continuar con la acción?"
+
+#: modules/user.py:582
+msgid ""
+"El dispotivo no fue iniciado por lo que no se pueden registrar huellas "
+"dactilares"
+msgstr ""
+"El dispotivo no fue iniciado por lo que no se pueden registrar huellas "
+"dactilares"

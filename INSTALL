@@ -1,0 +1,41 @@
+Installation Instructions
+*************************
+
+System Requirements
+===================
+    1. Ubuntu Linux version 9.10, 10.04, 10.10 and 11.04
+    2. Dependencies
+        - python language
+        - mysql database
+        - libusb-dev
+        - libtool
+        - libssl-dev
+        - automake
+        - python-dev
+        - libxv-dev
+        - swig
+        - python-configobj
+        - git
+	- libgtk2.0-dev
+        - python-mysqldb
+	- libmagick++-dev
+    3. It support attendance by fingerprint reader and It works with the devices supported by
+       fprint library (http://www.reactivated.net/fprint/wiki/Supported_devices)
+
+Basic Installation
+==================
+
+    1. Install the libfprint library using next tutorial
+       https://launchpad.net/~fingerprint/+archive/fprint
+
+    2. Install the libfrpint-dev library.
+
+    3. Clone from git://repo.or.cz/libfprint/pyfprint.git the pyfprint repository library.
+
+    4. Install the pyfprint library running the following commands (you have to be root user):
+        - ./autogen.sh
+        - ./configure
+        - make
+        - cd pyfprint
+        - make
+        - sudo make install

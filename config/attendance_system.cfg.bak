@@ -1,0 +1,21 @@
+# Attendance System Configuration File
+# Pair <key>=<value>
+
+[database]
+name = movimien_attendance_system
+user = movimien_attend
+password = attendance
+host = fast28.fastdomain.com
+
+[admin]
+password = admin
+
+[app]
+attendance_by_finger_print = False
+attendance_by_dni = True
+attendance_by_user_name = False
+events_attendance = True
+
+[finger_print]
+hand = right
+finger = index
