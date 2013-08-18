@@ -13,4 +13,4 @@ Desktop software program that uses fingerprints to control the attendance of peo
 
 
 **************
-This application was developed by Jorge Saldivar and it is relased under LGPL version 2.1 license.
+This application is relased under LGPL version 2.1 license.
