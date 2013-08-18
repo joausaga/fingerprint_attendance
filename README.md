@@ -1,5 +1,5 @@
 Attendance System by Finger Print
-*********************************
+=================================
 
 Desktop software program that uses fingerprints to control the attendance of people to a conference, classes or to the work.
 
@@ -13,7 +13,7 @@ Desktop software program that uses fingerprints to control the attendance of peo
 
 
 Copyright 2011
-==============
+**************
 - Jorge Saldivar Galli <jorgesaldivar@gmail.com>
 
 This application was developed by Jorge Saldivar and it is relased under LGPL version 2.1 license.
