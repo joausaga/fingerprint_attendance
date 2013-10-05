@@ -9,7 +9,7 @@ Features
 - Support the assistance control by events.
 - Easily get reports about the assistance of users.
 
-<p><img alt="Assistance Screen" width="800" height="600" src="https://a.fsdn.com/con/app/proj/attendencesys/screenshots/assistance-screen.png" /></p>
+<p><img alt="Assistance Screen" width="494" height="262" src="https://a.fsdn.com/con/app/proj/attendencesys/screenshots/assistance-screen.png" /></p>
 
 License
 -------
